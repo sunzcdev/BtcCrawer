@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Crawer.iml" filepath="$PROJECT_DIR$/Crawer.iml" />
+      <module fileurl="file://F:/python-binance-master/python-binance-master.iml" filepath="F:/python-binance-master/python-binance-master.iml" />
+    </modules>
+  </component>
+</project>
